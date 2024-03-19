@@ -533,7 +533,7 @@ a {
 #brand_story {
     height: 550px;
     margin: 50px 0;
-    background: url(../images/main/brandstroy_bg.jpg) no-repeat 50%;
+    background: url(../images/main/brandstroy_bg.jpg) repeat 50%;
     background-attachment: fixed;
 }
 .inner_brand_story{
