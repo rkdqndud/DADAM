@@ -327,6 +327,7 @@ a {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    overflow: hidden;
 }
 #section2 .position_box{
     width: 1320px;
